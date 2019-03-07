@@ -1,0 +1,31 @@
+{
+  "name": "iview-admin-plus",
+  "version": "1.0.1",
+  "description": "iview-admin-plus是基于iview-admin打造的, 更好看的后台主题布局",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imofei/iview-admin-plus.git"
+  },
+  "keywords": [
+    "iview-admin-plus",
+    "iview-admin-theme",
+    "vue",
+    "vue-admin"
+  ],
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "author": "mofei",
+  "email": "root@mofei.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imofei/iview-admin-plus/issues"
+  },
+  "homepage": "https://github.com/imofei/iview-admin-plus#readme"
+}
