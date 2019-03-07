@@ -6,7 +6,8 @@
 **[DEMO](https://iview.github.io/iview-area/)**
 
 # install 安装
-> 依赖iview-admin,首先安装iview-admin完成后再执行
+> 依赖iview-admin,首先安装[iview-admin](https://github.com/iview/iview-admin)
+完成后再执行
 
 ```
     npm install iview-admin-plus
