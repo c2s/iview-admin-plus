@@ -2,8 +2,6 @@
 [![npm](https://img.shields.io/npm/v/iview-admin-plus.svg)]()
 
 > iview-admin-plus是一款基于iview-admin打造的, 更好看的后台主题布局.
-> 
-**[DEMO](https://iview.github.io/iview-area/)**
 
 # install 安装
 > 依赖iview-admin,首先安装[iview-admin](https://github.com/iview/iview-admin)
