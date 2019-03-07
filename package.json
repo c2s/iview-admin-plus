@@ -1,6 +1,6 @@
 {
   "name": "iview-admin-plus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "iview-admin-plus是基于iview-admin打造的, 更好看的后台主题布局",
   "main": "index.js",
   "scripts": {
